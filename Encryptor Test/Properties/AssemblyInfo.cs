@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Encryptor")]
+[assembly: AssemblyTitle("Encryptor Test")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Encryptor")]
+[assembly: AssemblyProduct("Encryptor Test")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9a0efee0-ecc4-4209-8e02-bde95b203050")]
+[assembly: Guid("242aa1d2-50ff-40d1-9e2a-795439fc10ac")]
 
 // Version information for an assembly consists of the following four values:
 //
